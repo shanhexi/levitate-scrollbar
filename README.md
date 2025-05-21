@@ -6,7 +6,6 @@
 [![Telegram][telegram-image]][telegram-url]
 [![Whatsapp][whatsapp-image]][whatsapp-url]
 [![Reddit][reddit-image]][reddit-url]
-[![Reddit][reddit-image]][reddit-url]
 [![Gmail][gmail-image]][gmail-url]
 
 [readmex-image]: https://raw.githubusercontent.com/CodePhiliaX/resource-trusteeship/main/readmex.svg
