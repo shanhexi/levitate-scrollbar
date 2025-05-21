@@ -1,5 +1,6 @@
 <div align="center">
-  
+
+[![ReadmeX](https://raw.githubusercontent.com/CodePhiliaX/resource-trusteeship/main/readmex.svg)](https://readmex.com/CodePhiliaX/Chat2DB)
 [![ReadmeX][readmex-image]][readmex-url]
 [![Discord][discord-image]][discord-url]
 [![Twitter][twitter-image]][twitter-url]
